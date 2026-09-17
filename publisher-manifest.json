@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "30700747c3188dc38a2dd5d2",
+  "owner": "qe8uaxxpf",
+  "repo": "qe8uaxxpf.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "1fe63ad6613bef62d4d9174f",
+      "a": "歪兔(YToo)",
+      "b": "网络加速服务",
+      "entity": "歪兔(YToo)",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6385ddfb5e49e7cb1d192d5638b1b0108a7884adfdc6d0854008cd0528dcefe4",
+      "content": {
+        "primary_entity": "歪兔(YToo)",
+        "keyword1": "歪兔(YToo)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_DESCRIPTION": "，专注于为跨境访问、流媒体观看与游戏联机提供网络加速服务。当前提供基础版、旗舰版和团队版三档订阅，可依据设备数量、每月流量与线路偏好进行选择，帮助家庭个人或小团队快速匹配到适合的加速方案。",
+          "AI_HERO_SUBTITLE": "歪兔(YToo) 网络加速服务",
+          "AI_HERO_INTRO": "歪兔(YToo) 提供多档网络加速订阅，覆盖个人日常浏览、流媒体观看与游戏联机等场景。可按设备数量、每月流量和线路偏好选择基础版、旗舰版或团队版，并配合常用客户端配置订阅。",
+          "AI_VISUAL_TITLE": "歪兔(YToo) 加速方案",
+          "AI_HIGHLIGHT_1": "多档套餐匹配不同设备规模",
+          "AI_HIGHLIGHT_2": "订阅周期灵活按需选择",
+          "AI_HIGHLIGHT_3": "常用客户端配置订阅导入",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURES_INTRO": "结合设备数量和流量需求挑选套餐，再按客户端文档完成订阅配置。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版适合少量设备，旗舰版覆盖常见多设备家庭，团队版支持更多设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按周期看订阅",
+          "AI_FEATURE_TEXT_2": "月付方便短期体验，年付适合长期稳定使用，可按使用节奏选择计费周期。",
+          "AI_FEATURE_TITLE_3": "线路影响体验",
+          "AI_FEATURE_TEXT_3": "普通线路适合日常使用，专线节点更利于游戏等对延迟敏感的场景，可按需选择。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依据设备系统选择对应客户端，按客户端文档导入订阅并调整连接参数。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "先确认设备数量与每月流量需求，再对比基础版、旗舰版和团队版的线路与权益差异。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按选择服务、核对适配、配置订阅的顺序完成使用准备。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量和流量需求，在基础版、旗舰版或团队版中选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统和网络环境是否满足所选套餐的客户端运行条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅信息，完成连接参数设置后即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，按客户端文档完成订阅配置，即可开始使用歪兔(YToo) 网络加速服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_ANSWER_1": "如果日常只有一两台设备，流量需求在百GB以内，基础版即可满足浏览和基础流媒体。需要多设备同时在线或更稳定的游戏线路，旗舰版更合适。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "各套餐设备数不同，基础版支持三台，旗舰版支持五台，团队版支持二十台。超出数量时新设备可能无法连接，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，适合短期尝试；年付一次性支付全年费用，单价更低。长期使用可优先考虑年付，具体以所选套餐页面显示为准。",
+          "AI_FAQ_QUESTION_4": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认客户端版本是否支持导入链接，再检查订阅地址是否完整复制。部分客户端需要手动更新订阅或更换节点后再试。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版面向多成员协作、高带宽访问和定制路由需求，提供更多设备席位和专属节点。小型团队或工作室可考虑该档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "41126968e88c7f7a53f43c6532531a008db4ea2af3ee2ebc6845124d0b696358",
+    "sitemap.xml": "a2896e6a8a3aa4723b09c32f7527ae255762987e27f618f1141100f1448f9875",
+    "robots.txt": "ce25a2165a46b4ae269c2f8e81a1bdf54de975bed1d860e0d15c3003ba8d47d8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "d49328853ff8873c9cfeb25e155e7ee353beb8ae89574f5cb9a7660fd7f4eed5"
+}
